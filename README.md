@@ -1,52 +1,77 @@
-<div>
-  
-  ![header](https://capsule-render.vercel.app/api?type=Blur&fontColor=d6ace6&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&animation=blinking)
-  <canvas>
-            
-  </canvas>
-  * {margin: 0; padding: 0}
-  body {background: #000;}
-  canvas {display: block;}
-
-  // Initialising the canvas
-var canvas = document.querySelector('canvas'),
-    ctx = canvas.getContext('2d');
-
-// Setting the width and height of the canvas
-canvas.width = window.innerWidth;
-canvas.height = window.innerHeight;
-
-// Setting up the letters
-var letters = 'ABCDEFGHIJKLMNOPQRSTUVXYZABCDEFGHIJKLMNOPQRSTUVXYZABCDEFGHIJKLMNOPQRSTUVXYZABCDEFGHIJKLMNOPQRSTUVXYZABCDEFGHIJKLMNOPQRSTUVXYZABCDEFGHIJKLMNOPQRSTUVXYZ';
-letters = letters.split('');
-
-// Setting up the columns
-var fontSize = 10,
-    columns = canvas.width / fontSize;
-
-// Setting up the drops
-var drops = [];
-for (var i = 0; i < columns; i++) {
-  drops[i] = 1;
-}
-
-// Setting up the draw function
-function draw() {
-  ctx.fillStyle = 'rgba(0, 0, 0, .1)';
-  ctx.fillRect(0, 0, canvas.width, canvas.height);
-  for (var i = 0; i < drops.length; i++) {
-    var text = letters[Math.floor(Math.random() * letters.length)];
-    ctx.fillStyle = '#0f0';
-    ctx.fillText(text, i * fontSize, drops[i] * fontSize);
-    drops[i]++;
-    if (drops[i] * fontSize > canvas.height && Math.random() > .95) {
-      drops[i] = 0;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Canvas Header Effect</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
     }
-  }
-}
+    body {
+      background: #000;
+    }
+    canvas {
+      display: block;
+    }
+    .header-img {
+      width: 100%;
+      display: block;
+    }
+  </style>
+</head>
+<body>
 
-// Loop the animation
-setInterval(draw, 33);
+  <!-- HTML Header Image -->
+  <img class="header-img" src="https://capsule-render.vercel.app/api?type=Blur&fontColor=d6ace6&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&animation=blinking" alt="header" />
+
+  <!-- Canvas Animation -->
+  <canvas></canvas>
+
+  <script>
+    // Initialising the canvas
+    var canvas = document.querySelector('canvas'),
+        ctx = canvas.getContext('2d');
+
+    // Setting the width and height of the canvas
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+
+    // Letters and columns
+    var letters = 'ABCDEFGHIJKLMNOPQRSTUVXYZ'.repeat(10).split('');
+    var fontSize = 10,
+        columns = canvas.width / fontSize;
+
+    // Drops
+    var drops = [];
+    for (var i = 0; i < columns; i++) {
+      drops[i] = 1;
+    }
+
+    // Drawing function
+    function draw() {
+      ctx.fillStyle = 'rgba(0, 0, 0, .1)';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+      ctx.fillStyle = '#0f0';
+      ctx.font = fontSize + 'px monospace';
+
+      for (var i = 0; i < drops.length; i++) {
+        var text = letters[Math.floor(Math.random() * letters.length)];
+        ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+        if (drops[i] * fontSize > canvas.height && Math.random() > 0.95) {
+          drops[i] = 0;
+        }
+        drops[i]++;
+      }
+    }
+
+    // Animation loop
+    setInterval(draw, 33);
+  </script>
+</body>
+</html>
+
 
 </div>  
 
