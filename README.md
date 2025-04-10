@@ -1,9 +1,9 @@
 </div>
 
-  ![header](https://capsule-render.vercel.app/api?type=Transparent&fontColor=d6ace6&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&animation=fadeIn)
-
+  ![header](https://capsule-render.vercel.app/api?type=Transparent&fontColor=d6ace6&height=200&section=header&text=Good%20to%20see%20you!&animation=fadeIn)
+  
 </div>
-      
+
   ## 👀 About Me
   #### :raising_hand: I am a Freshman Student at the University of California, Irvine<br/>
   #### :fire: I'm currently persuing my academic interest in Software Engineering<br/>
