@@ -1,10 +1,14 @@
 <div>
-  
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=Blur&fontColor=d6ace6&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&animation=blinking)
   
-</div>
 
+</div>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
+    <div align= "center">
+      <a href=https://www.instagram.com/evan_escn> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/evan_escn"> </a>
+      <a href=mailto:ejeon2@uci.edu> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ejeon2@uci.edu"> </a>
 <div>
   <!--Body-->
   
