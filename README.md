@@ -17,9 +17,11 @@
     <a href="https://www.linkedin.com/in/soobin-jeon-28070a2bb/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white">
     </a>
+    <a href="https://discord.com/users/evan_escn">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
   </div>
 </div>
-
       
   ## 👀 About Me
   #### :raising_hand: I am a Freshman Student at the University of California, Irvine<br/>
