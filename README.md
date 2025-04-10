@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
 
-  ![EVAN-SOOBIN-JEON's GitHub stats](-nl--nl-https://github-readme-stats.vercel.app/api?username=evanjeon-hub&theme=radical-nl--nl-)
+  ![EVAN-SOOBIN-JEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanjeon-hub&theme=radical)
   <br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanjeon-hub&size_weight=0.5&count_weight=0.5)
 
