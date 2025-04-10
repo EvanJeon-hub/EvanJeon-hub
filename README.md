@@ -1,28 +1,7 @@
-<div style="text-align: center;">
-  <!-- Capsule header image -->
-  <img src="https://capsule-render.vercel.app/api?type=Waving&fontColor=FF6EC7&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&animation=blinking" alt="header" />
-
-  <!-- Neon text -->
-  <div class="container">
-    <h1 class="neonText">404</h1>
-    <h2 class="neonText">Page Not Found</h2>
-  </div>
 </div>
 
-<!-- Neon CSS style -->
-<style>
-  .neonText {
-    font-family: 'Arial Black', sans-serif;
-    color: #39FF14;
-    text-shadow:
-      0 0 5px #39FF14,
-      0 0 10px #39FF14,
-      0 0 20px #39FF14,
-      0 0 40px #39FF14;
-    font-size: 48px;
-    margin: 0.5em 0;
-  }
-</style>
+  ![header](https://capsule-render.vercel.app/api?type=Transparent&fontColor=d6ace6&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&animation=fadeIn)
+
 </div>
       
   ## 👀 About Me
