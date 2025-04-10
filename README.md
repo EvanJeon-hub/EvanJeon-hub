@@ -13,7 +13,6 @@
   #### :fire: I'm currently persuing my academic interest in Software Engineering<br/>
   #### :mortar_board: Bachelor of Science - Computer Software Engineering, University of California, Irvine(UCI)
   <br/>
-  <br/>
   
   ## 🧱 Tech Stack
   <!--Python-->
