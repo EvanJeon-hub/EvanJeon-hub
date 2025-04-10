@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
+
   <!-- Github Stats -->
   <div>
     <h2>Github Stats</h2>
@@ -33,7 +33,8 @@
   <div>
     <h2>Most Used Language</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanjeon-hub&size_weight=0.5&count_weight=0.5" alt="Top Langs"/>
-
   </div>
+
+</div>
 <!--
 **EvanJeon-hub/EvanJeon-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
