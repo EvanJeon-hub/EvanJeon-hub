@@ -9,7 +9,9 @@
     <div align= "center">
       <a href=https://www.instagram.com/evan_escn> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/evan_escn"> </a>
       <a href=mailto:ejeon2@uci.edu> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ejeon2@uci.edu"> </a>
-<div>
+      <a href=https://www.linkedin.com/in/soobin-jeon-28070a2bb/> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soobin-jeon-28070a2bb/"> </a>
+
+</div><br>
   <!--Body-->
   
   ## 👀 About Me
