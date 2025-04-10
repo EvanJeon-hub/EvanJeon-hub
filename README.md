@@ -1,18 +1,17 @@
 <div>
-  <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=Blur&fontColor=d6ace6&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&animation=blinking)
   
 
-<div align= "center">
+
+
+</div>  
+  <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center">
       <a href=https://www.instagram.com/evan_escn> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/evan_escn"> </a>
       <a href=mailto:ejeon2@uci.edu> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ejeon2@uci.edu"> </a>
       <a href=https://www.linkedin.com/in/soobin-jeon-28070a2bb/> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soobin-jeon-28070a2bb/"> </a>
-
-</div><br>
-  <!--Body-->
-  
+      
   ## 👀 About Me
   #### :raising_hand: I am a Freshman Student at the University of California, Irvine<br/>
   #### :fire: I'm currently persuing my academic interest in Software Engineering<br/>
