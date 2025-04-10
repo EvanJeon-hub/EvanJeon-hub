@@ -21,14 +21,19 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
 
-  ## Github Stats
-  ![EVAN-SOOBIN-JEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanjeon-hub&theme=radical)
-  <br/>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+  
+  <!-- Github Stats -->
+  <div>
+    <h2>Github Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=evanjeon-hub&theme=radical" alt="EVAN-SOOBIN JEON's GitHub stats"/>
+  </div>
 
-  ## Most Used Language
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanjeon-hub&size_weight=0.5&count_weight=0.5)
+  <!-- Most Used Language -->
+  <div>
+    <h2>Most Used Language</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanjeon-hub&size_weight=0.5&count_weight=0.5" alt="Top Langs"/>
 
- </div>
-
+  </div>
 <!--
 **EvanJeon-hub/EvanJeon-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
