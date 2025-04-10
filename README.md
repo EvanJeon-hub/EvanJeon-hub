@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
-
   <!-- Github Stats -->
   <div>
     <h2>Github Stats</h2>
