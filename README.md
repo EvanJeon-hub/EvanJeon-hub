@@ -1,8 +1,6 @@
 <div>
-
+ 
 ![header](https://capsule-render.vercel.app/api?type=Blur&fontColor=d6ace6&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&animation=fadeIn)
-
-</div>  
 
 <div align="center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
@@ -27,8 +25,8 @@
 </div>
  
  ## 👀 About Me
- #### :raising_hand: Hello, My name is EVAN-SOOBIN JEON! I am a Freshman Student at the University of California, Irvine
- #### :fire: I'm currently pursuing my academic interest in Software Engineering on Fullstack Development
+ #### :raising_hand: Hello, My name is EVAN-SOOBIN JEON! I'm a Freshman at the University of California, Irvine
+ #### :fire: I'm currently pursuing my academic interest in Software Engineering on Full-stack Development
  #### :mortar_board: Bachelor of Science - Computer Software Engineering, University of California, Irvine(UCI)
 
  ## 🧱 Tech Stack
@@ -42,13 +40,13 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
 
 
-<h2>📊 GitHub Stats</h2>
+<h2> 📊 GitHub Stats</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=evanjeon-hub&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+<h2> 📚 Most Used Languages</h2>
 <p>
-<h2>📚 Most Used Languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanjeon-hub&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
