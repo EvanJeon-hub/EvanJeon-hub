@@ -40,10 +40,14 @@
 <br/>
 
 <h2>📊 GitHub Stats</h2>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=evanjeon-hub&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
+<p>
 <h2>📚 Most Used Languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanjeon-hub&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
 </div>
 
