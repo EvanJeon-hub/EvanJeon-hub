@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Blur&fontColor=d6ace6&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&animation=fadeIn)
 
-
 </div>  
 
 <div align="center">
@@ -20,7 +19,7 @@
 <a href="https://discord.com/users/evan_escn">
  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-</div>
+
 </div>
  
  ## 👀 About Me
@@ -40,11 +39,10 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <br/>
 
-  ## Github Stats
+ ## Github Stats
 ![EVAN-SOOBIN-JEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanjeon-hub&theme=radical)
-<br/>
 
-  ## Most Used Language
+ ## Most Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanjeon-hub&size_weight=0.5&count_weight=0.5)
 
 </div>
