@@ -29,7 +29,7 @@
  #### :fire: I'm currently pursuing my academic interest in Software Engineering on Full-stack Development
  #### :mortar_board: Bachelor of Science - Computer Software Engineering, University of California, Irvine(UCI)
 
- ## 🧱 Tech Stack
+ ## 🧱 My Tech Stack
 <!--Python-->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <!--JavaScript-->
