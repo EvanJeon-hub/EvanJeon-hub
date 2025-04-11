@@ -47,7 +47,7 @@
 
 <h2> 📚 Most Used Languages</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanjeon-hub&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanjeon-hub&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 </div>
