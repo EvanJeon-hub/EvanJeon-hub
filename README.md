@@ -30,6 +30,7 @@
  #### :mortar_board: Bachelor of Science - Computer Software Engineering, University of California, Irvine(UCI)
 
  ## 🧱 My Tech Stack
+ ## 👨‍💻 This will be updated after I learn new programming languages!
 <!--Python-->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <!--JavaScript-->
@@ -38,7 +39,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <!--CSS-->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-
 
 <h2> 📊 GitHub Stats</h2>
 <p>
