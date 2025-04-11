@@ -39,11 +39,11 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <br/>
 
- ## Github Stats
-![EVAN-SOOBIN-JEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanjeon-hub&theme=radical)
+<h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=evanjeon-hub&show_icons=true&theme=radical" alt="GitHub Stats" />
 
- ## Most Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanjeon-hub&size_weight=0.5&count_weight=0.5)
+<h2>📚 Most Used Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanjeon-hub&layout=compact&theme=default" alt="Top Languages" />
 
 </div>
 
