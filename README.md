@@ -7,15 +7,19 @@
 <div align="center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
 <div align="center">
+ <!--Instargram-->
 <a href="https://www.instagram.com/evan_escn">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+ <!--Gmail-->
 <a href="mailto:ejeon2@uci.edu">
  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
+ <!--Linkedin-->
 <a href="https://www.linkedin.com/in/soobin-jeon-28070a2bb/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
+ <!--Discord-->
 <a href="https://discord.com/users/evan_escn">
  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
@@ -23,10 +27,9 @@
 </div>
  
  ## 👀 About Me
- #### :raising_hand: I am a Freshman Student at the University of California, Irvine<br/>
- #### :fire: I'm currently persuing my academic interest in Software Engineering<br/>
+ #### :raising_hand: Hello, My name is EVAN-SOOBIN JEON! I am a Freshman Student at the University of California, Irvine
+ #### :fire: I'm currently pursuing my academic interest in Software Engineering on Fullstack Development
  #### :mortar_board: Bachelor of Science - Computer Software Engineering, University of California, Irvine(UCI)
-<br/>
 
  ## 🧱 Tech Stack
 <!--Python-->
@@ -36,8 +39,8 @@
 <!--HTML5-->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <!--CSS-->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<br/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
+
 
 <h2>📊 GitHub Stats</h2>
 <p>
