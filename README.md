@@ -1,6 +1,6 @@
 <div>
  
-![header](https://capsule-render.vercel.app/api?type=Blur&fontColor=d6ace6&height=300&section=header&text=Welcome%20to%20my%20Github%20🎮&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Blur&fontColor=d6ace6&height=300section=header&text=Welcome%20to%20my%20Github%20🎮&animation=fadeIn)
 
 <div align="center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
