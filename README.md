@@ -23,7 +23,7 @@
  ## 👀 About Me
  #### :raising_hand: Hello, My name is EVAN-SOOBIN JEON! I'm a Freshman at the University of California, Irvine
  #### :fire: I'm currently pursuing my academic interest in Software Engineering on Full-stack Development
- #### :mortar_board: Bachelor of Science - Computer Science, University of California, Irvine(UCI)
+ #### :mortar_board: Bachelor of Science - Double Major in Computer Science & Software Engineering, University of California, Irvine(UCI)
 
  ## 🧱 My Tech Stack
  ## 👨‍💻 This will be updated after I learn new programming languages!
